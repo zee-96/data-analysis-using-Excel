@@ -4,7 +4,7 @@ This repository showcases my proficiency in **data analysis, cleaning, pivoting,
 
 ## 🌟 Project Overview
 
-The projects utilize practical Excel features, including **Pivot Tables**, **Calculated Fields**, **VLOOKUP** and **Charting/Visualization**, to transform raw data into actionable business intelligence.
+The projects utilizes practical Excel features, including **Pivot Tables** with **Slicers**, **Calculated Fields**, **Advanced Logical Functions (`SWITCH`)**, **Lookup Functions (`VLOOKUP`)**, and **Interactive Visualization** to transform raw data into actionable business intelligence.
 
 ## 💾 Datasets and Analysis Focus
 
